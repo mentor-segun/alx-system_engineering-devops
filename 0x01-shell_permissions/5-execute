@@ -1,1 +1,2 @@
--rwxr--r--
+#!/bin/bash
+chmod u+x
