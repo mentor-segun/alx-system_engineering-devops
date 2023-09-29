@@ -1,1 +1,2 @@
-This is a test ReadMe
+#!/bin/bash
+su betty
