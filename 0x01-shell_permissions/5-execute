@@ -1,2 +1,4 @@
 #!/bin/bash
 chmod u+x
+#!/bin/bash
+chmod +x
